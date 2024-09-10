@@ -26,8 +26,8 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 <br>
 ### Additional skills: <br>
-      1) **For python:** <br>
-    Asyncio | SqlAlchemy | Alembic | JWT | DataBase Sessions auth | FastApi Users | Pydentic | Websockets  <br>
+1) **For python:** <br>
+  Asyncio | SqlAlchemy | Alembic | JWT | DataBase Sessions auth | FastApi Users | Pydentic | Websockets  <br>
 2) **For deploy:** <br>
   Nginx | Docker | Docker compose | Linux <br>
 3) **For Go:** <br>
