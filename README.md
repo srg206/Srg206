@@ -49,7 +49,7 @@
 
 <br><br>
 [Telegram bot to remind movies](https://github.com/Srg206/film-adviser) Two Telegram bots, in one of them you can write movie which i want to watch later in second one you can ask bot to remind saved movies <br>
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/cmake-%230a0e12?style=for-the-badge&logo=cmake"> 
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> <img src="https://img.shields.io/badge/cmake-%230a0e12?style=for-the-badge&logo=cmake"> 
 <br><br>
 
 
