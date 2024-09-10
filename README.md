@@ -29,7 +29,12 @@ Additional skills: <br>
       1) For python:<br>
     Asyncio | SqlAlchemy | Alembic | JWT | DataBase Sessions auth | FastApi Users | Pydentic | Websockets  <br>
 2) For deploy: <br>
-  Nginx | Docker | Docker compose | Linux
+  Nginx | Docker | Docker compose | Linux <br>
+3) For Go: <br>
+  Gin | Telego | GORM <br>
+4) Network: <br>
+  OSI model | http | tcp/ip <br>
+
 
 
 ## My projects:
