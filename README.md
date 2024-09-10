@@ -33,7 +33,7 @@
 3) **For Go:** <br>
   Gin | Telego | GORM <br>
 4) **Network:** <br>
-  OSI model | http | tcp/ip <br>
+  OSI model | http | tcp/ip | other protocols <br>
 
 
 
