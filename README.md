@@ -25,14 +25,14 @@
 ![Nginx](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 <br>
-Additional skills: <br>
-      1) For python:<br>
+### Additional skills: <br>
+      1) **For python:** <br>
     Asyncio | SqlAlchemy | Alembic | JWT | DataBase Sessions auth | FastApi Users | Pydentic | Websockets  <br>
-2) For deploy: <br>
+2) **For deploy:** <br>
   Nginx | Docker | Docker compose | Linux <br>
-3) For Go: <br>
+3) **For Go:** <br>
   Gin | Telego | GORM <br>
-4) Network: <br>
+4) **Network:** <br>
   OSI model | http | tcp/ip <br>
 
 
