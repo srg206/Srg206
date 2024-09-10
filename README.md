@@ -18,9 +18,8 @@
 ![Python](https://img.shields.io/badge/python-%23000000?style=for-the-badge&logo=python) 
 ![C++](https://img.shields.io/badge/c++-%23000000?style=for-the-badge&logo=c%2B%2B&logoColor=blue) 
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) 
-
+![Asyncio](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmuxtarovich.medium.com%2Fparallelism-concurrency-asyncio-python-d2da194fa25a&psig=AOvVaw3f7ZZvxc2kTz50IwVABl5L&ust=1726062805643000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODnlpbDuIgDFQAAAAAdAAAAABAE) 
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 
