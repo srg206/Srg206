@@ -15,6 +15,7 @@
 
 ## Skills 
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23000000?style=for-the-badge&logo=python) 
 ![C++](https://img.shields.io/badge/c++-%23000000?style=for-the-badge&logo=c%2B%2B&logoColor=blue) 
 ![Cmake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
