@@ -26,9 +26,9 @@
 <br>
 Additional skills: <br>
       1) For python:<br>
-    Asyncio | SqlAlchemy | Alembic | JWT | DataBase Sessions auth | FastApi Users | Pydentic | Websockets  
-
-Nginx 
+    Asyncio | SqlAlchemy | Alembic | JWT | DataBase Sessions auth | FastApi Users | Pydentic | Websockets  <br>
+2) For deploy: <br>
+  Nginx | Docker | Docker compose | Linux
 
 
 ## My projects:
