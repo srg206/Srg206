@@ -8,7 +8,8 @@
 </div>
 
 
-<i>Currently</i>: I am a student of NUST MISIS on ISAD(Intelligent data analysis systems) 2023-2027
+<i>Currently</i>: 1) I am a student of NUST MISIS on ISAD(Intelligent data analysis systems) 2023-2027
+2) Working on Title (HSE AI projects company)
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can write me at [Telegram](https://t.me/@Srg206), [Gmail](srg206.32@gmail.com)
