@@ -14,31 +14,6 @@
 *   🌍  I'm based in Moscow
 *   ✉️  You can write me at [Telegram](https://t.me/@Srg206), [Gmail](srg206.32@gmail.com)
 
-## Skills 
-![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-%23000000?style=for-the-badge&logo=python) 
-![C++](https://img.shields.io/badge/c++-%23000000?style=for-the-badge&logo=c%2B%2B&logoColor=blue) 
-![Cmake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![K8S](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-<br>
-### Additional skills: <br>
-1) **For python:** <br>
-  Asyncio | SqlAlchemy | Alembic | JWT | DataBase Sessions auth | FastApi Users | Pydentic | Websockets  <br>
-2) **For deploy:** <br>
-  Nginx | Docker | Docker compose | Linux <br>
-3) **For Go:** <br>
-  Gin | Telego | GORM <br>
-4) **Network:** <br>
-  OSI model | http | tcp/ip | other protocols <br>
-
-
-
 ## My projects:
 ### [Algos and Data Structures](https://github.com/Srg206/misis2024s-23-18-tsukanov-s-u) Basics algorithms, data structures and C++ syntax educational tasks <br>
 <img src="https://img.shields.io/badge/cmake-%230a0e12?style=for-the-badge&logo=cmake"><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">
@@ -64,8 +39,33 @@ Bot to remind: http://t.me/Revise_Film_Bot <br>
 <br><br>
 
 
-### My last repository 
-https://github.com/Vactsd
+## Skills 
+![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-%23000000?style=for-the-badge&logo=python) 
+![C++](https://img.shields.io/badge/c++-%23000000?style=for-the-badge&logo=c%2B%2B&logoColor=blue) 
+![Cmake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![K8S](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+<br>
+### Additional skills: <br>
+
+1) **For Go:** <br>
+   Concurency | GORM <br>
+2) **For devOps:** <br>
+   Kubernetes | Docker | Nginx | CI CD | Observability <br>
+3) **For python:** <br>
+  Asyncio | SqlAlchemy | Alembic | JWT | DataBase Sessions auth | FastApi Users | Pydentic  <br>
+4) **Network:** <br>
+  CISCO Course in NUST MISIS
+  OSI model | Network | http | tcp/ip | other protocols <br>
+
+
+
 
 ### My GitHub Stats
 
