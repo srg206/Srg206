@@ -3,7 +3,7 @@
     Hey there
   </h1>
   <h2>
-    Backend Python & Go
+    Backend Go
   </h2>
 </div>
 
