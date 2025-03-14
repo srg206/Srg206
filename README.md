@@ -55,7 +55,7 @@ Bot to remind: http://t.me/Revise_Film_Bot <br>
 ### Additional skills: <br>
 
 1) **For Go:** <br>
-   Concurency | GORM <br>
+   Concurency | Patterns  <br>
 2) **For devOps:** <br>
    Kubernetes | Docker | Nginx | CI CD | Observability <br>
 3) **For python:** <br>
