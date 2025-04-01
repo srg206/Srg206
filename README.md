@@ -12,7 +12,7 @@
 2) Working on Title (HSE AI projects company)
 
 *   🌍  I'm based in Moscow
-*   ✉️  You can write me at [Telegram](https://t.me/@Srg206), [Gmail](srg206.32@gmail.com)
+*   ✉️  You can write me at [Telegram](https://t.me/@Srg625), [Mail](czukanov_s@list.ru)
 
 ## My projects:
 ### [Algos and Data Structures](https://github.com/Srg206/misis2024s-23-18-tsukanov-s-u) Basics algorithms, data structures and C++ syntax educational tasks <br>
