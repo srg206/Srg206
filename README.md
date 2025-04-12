@@ -8,7 +8,7 @@
 </div>
 
 
-<i>Currently</i>: <br>1) I am a student of NUST MISIS on ISAD(Intelligent data analysis systems) <br>
+<i>Currently</i>: <br>1) I am a student of NUST MISIS  <br>
 2) Working on Title 
 
 *   🌍  I'm based in Moscow
