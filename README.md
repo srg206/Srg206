@@ -36,7 +36,6 @@
 3) **For python:** <br>
   Asyncio | SqlAlchemy | Alembic | JWT | DataBase Sessions auth | FastApi Users | Pydentic  <br>
 4) **Network:** <br>
-  CISCO Course in NUST MISIS
   OSI model | Network | http | tcp/ip | other protocols <br>
 
 
