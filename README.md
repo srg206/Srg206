@@ -9,35 +9,10 @@
 
 
 <i>Currently</i>: <br>1) I am a student of NUST MISIS on ISAD(Intelligent data analysis systems) <br>
-2) Working on Title (HSE AI projects company)
+2) Working on Title 
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can write me at [Telegram](https://t.me/@Srg625), [Mail](czukanov_s@list.ru)
-
-## My projects:
-### [Algos and Data Structures](https://github.com/Srg206/misis2024s-23-18-tsukanov-s-u) Basics algorithms, data structures and C++ syntax educational tasks <br>
-<img src="https://img.shields.io/badge/cmake-%230a0e12?style=for-the-badge&logo=cmake"><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">
-<br><br>
-### [REST API Yandex task](https://github.com/Srg206/RestApi.prj) Server that can process 7 types of http requests. Test task for summer Yandex backend school 2023 <br>
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/cmake-%230a0e12?style=for-the-badge&logo=cmake"> 
-<br><br>
-
-### [FastAPI Messenger ](https://github.com/Srg206/Messenger-fastapi) &  [ Its frontend](https://github.com/Srg206/Messenger-fastapi) Simple Messenger with authentification<br>
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white">
-<img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white">
-<br><br>
-### [CRM system for ExpoHack](https://github.com/Srg206/Backend_for_Expohack) A web platform created to solve the lead generation problem. <br>
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white">
-<br><br>
-### [Application to save and remind movies](https://github.com/Srg206/film-adviser) Application, which had 2 interfaces(Telegram bot and Web Api). Two Telegram bots, in one of them you can write movie which i want to watch later in second one you can ask bot to remind saved movies <br>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white">
-
-You can try bots here:<br>
-Bot to save: http://t.me/Save_Film_Bot <br>
-Bot to remind: http://t.me/Revise_Film_Bot <br> 
-<br><br>
-
 
 ## Skills 
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
