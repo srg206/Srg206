@@ -9,7 +9,6 @@
 
 
 <i>Currently</i>: <br>1) I am a student of NUST MISIS  <br>
-2) Working on Title 
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can write me at [Telegram](https://t.me/@Srg625), [Mail](czukanov_s@list.ru)
