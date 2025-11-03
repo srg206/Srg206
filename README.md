@@ -11,7 +11,7 @@
 <i>Currently</i>: <br>1) I am a student of NUST MISIS  <br>
 
 *   🌍  I'm based in Moscow
-*   ✉️  You can write me at [Telegram](https://t.me/@Srg625), [Mail](czukanov_s@list.ru)
+*   ✉️  You can write me at [Telegram](https://t.me/WorkSrg), [Mail](czukanov_s@list.ru)
 
 ## Skills 
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
